@@ -1,4 +1,4 @@
-#include <stdio.h> // Incluí as bibliotecas.
+#include <stdio.h> // Incluï¿½ as bibliotecas.
 #include <stdlib.h>
 
 void main(){
